@@ -9,7 +9,7 @@ Tags:
 ---
 
 
-# 🚀 _Day 3. Count Inversions_ 🧠
+# 🚀 _Day 23. Count Inversions_ 🧠
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/inversion-of-array-1587115620)
 
 ## 💡 **Problem Description:**
